@@ -2,7 +2,7 @@
 
 A retrieval-augmented question-answering app for exploring a Netflix catalogue in natural language. Director questions about a named title are answered by an exact lookup over the dataset; everything else goes through semantic retrieval and an LLM.
 
-**Case study:** [Read it on the portfolio](https://laiba-khawar-portfolio.vercel.app/work/netflix-qa)
+**Case study:** [Read it on the portfolio](https://www.laibakhawar.com/work/netflix-qa)
 
 ## How it works
 
